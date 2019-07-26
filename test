@@ -2,7 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Changing box Color</title>
+    <link rel="style" href="/cssi/style.css">
   </head>
   <body>
 <h1>Best Webstie Ever</h1>
